@@ -8,6 +8,7 @@ body {
 .wrapper {
   max-width: 700px;
   /* width: 100%; */
+  margin: 0 3px;
 }
 .container {
   text-align: center;
@@ -90,7 +91,7 @@ ul li.checked::before {
   left: 0;
   bottom: 0;
   z-index: 9;
-  width: 90%;
+  width: 85%;
   font-size: 20px;
   padding-left: 40px;
 }
